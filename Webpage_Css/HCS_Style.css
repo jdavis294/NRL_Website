@@ -1,0 +1,79 @@
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+	
+  float:right;
+  color: black;
+  text-align: center;
+  padding: 25px 25px;
+  text-decoration: none;
+  font-size: 17px;
+  position: relative;
+  top: 35px;
+  right:20%;
+}
+
+.topnav a:hover {
+  background-color: #FFBF00;
+  color: white;
+}
+
+.topnav a.active {
+  background-color:FFBF00;
+}
+#img{
+	height: 80px;
+    width: 80px;
+}
+
+.display{
+display: block;
+position:static;
+}
+.paragraphbox{
+position: relative;
+top: 250px;
+line-height: 2.5;
+word-spacing: 6px;
+text-align: justify;
+width: 79%;
+height: 600px;
+}
+
+#heading{
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#imgbox{
+	position:relative;
+	top: 150px;
+	height:600px;
+	width: 80%;
+	object-fit:cover;
+}
+.colorbar{
+	position:relative;
+	top: 50px;
+	display: block;
+	background: url("navyblue.png");
+	height:80px;
+	width:80%;
+	background-repeat:no-repeat;
+	background-size:  cover;
+}
+
+h1,h2,h3,p,pre{
+	color: black;
+	font-family: verdana;
+}
+paragraph{
+text-align:center;
+
+}
+body{
+	font-family:helvetica;
+	margin: 10px 0px 100px 200px;
+}
