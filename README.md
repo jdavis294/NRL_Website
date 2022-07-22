@@ -19,3 +19,5 @@ at the top of the screen which will show the enlarged image
 
 The CRmaps in the repository was a lot so i had to split in to two different folders so make sure after downloading the zip folder moved the continued
 CRmaps to the original one to see all the images.
+
+This webpage was built with HTML, CSS, and Javascript
